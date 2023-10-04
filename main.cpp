@@ -17,7 +17,7 @@ using namespace std;
 int main(int argc, char* argv[]){
 
     int seed; //random seed
-    string seed_string = "41JCElIbwgMCsyNK0kIA0lCo8SLZQBG-sgQvkVHbgRJ2IiC2oDJktTXZFSMekAKv8QFGEEAl8hBYVyI98iB2QRUcBxXVEFArEAUiQiNAxyX7sRJigFCgEFArYmIxYiJXphURUDCBFAbb5RERhVNMMjAF0RdORyB-4QBBkzXA4AKq0mAb5QKMoTWiwgNAsyYhMgIMgyOsgiULsiB"; // random seed string
+    string seed_string = "QUigwXFYhBEAmFt4zLGgBKkkCCrUDQUESHEIxITMxJpgBILdCCDIiNZhCKvkTF5IHCOgxL541G-8yUHARTW0yDahyLtMDBbcSJA1xPG4iI2gFGZIjINI2Xtk1D24RCvwyFVEQE-ExLtgVJi0TEsAzDd1VBZJRFBQjCp0QQq02A8oRKPoTWiwgNAsyYhMgIMgyOsgiULsiB"; // random seed string
     int gamesize = 9; // default size of game
     int nobs = 10; // default number of prefilled spaces
     int sim = 0; // number of simulation runs (if running speed tests)
